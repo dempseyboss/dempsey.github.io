@@ -1,6 +1,6 @@
 # Friend-ready personal gaming website
 
-Inspired by the **structure** of https://about.japwhite.fr/ — profile home, settings and devices, skins, and gaming setup. This is an original design and codebase, with no age counter or date-of-birth field.
+Inspired by the **structure** of https://about.japwhite.fr/ — profile home, settings and devices, skins, and gaming setup.
 
 ## Open it
 
